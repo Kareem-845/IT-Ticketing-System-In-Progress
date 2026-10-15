@@ -118,3 +118,5 @@ After correcting the simulated permissions issues, the user was able to access t
 
 5. Results
 The lab successfully demonstrated the deployment and operation of an IT helpdesk ticketing system.
+The Windows Server 2019 environment hosted the osTicket application while the Windows 10 domain-joined
+workstation simulated an end user. 
